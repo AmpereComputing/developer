@@ -83,3 +83,13 @@ If you’re looking for the best performance, try the ‘-Ofast’ (highest opti
 | OracleLinux | >= 7.5 |
 | RedHat Enterprise Linux (RHEL) | >= 7.5 | 
 | Ubuntu | >= 18.04.01 |
+
+
+## OpenSource Project Resources
+
+### Oregon State University Open Source Labs
+
+Ampere Computing  partners with the Oregon State University Open Source Lab to host Ampere servers in order to provide an open platform for innovation to the open source community.  Free access to Ampere platforms hosted at the OSUOSL for open source Aarch64 development can be requested here: 
+
+* [https://osuosl.org/services/aarch64/request_hosting/](https://osuosl.org/services/aarch64/request_hosting/)
+
