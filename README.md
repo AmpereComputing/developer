@@ -85,7 +85,7 @@ If you’re looking for the best performance, try the ‘-Ofast’ (highest opti
 | Ubuntu | >= 18.04.01 |
 
 
-## OpenSource Project Resources
+## Free access to Ampere Computing patforms for Open Source projects.
 
 ### Oregon State University Open Source Labs
 
