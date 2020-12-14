@@ -12,7 +12,7 @@ Whether you’re looking to enhance the functionality of your app or optimize it
 
 * [eMAG 8180 Product Brief](https://cdn.amperecomputing.com/documentation/hardware/eMAG/eMAG8180_PB_v0.5_20180914.pdf)
 * [eMAG Perf Events Reference Sheet](https://cdn.amperecomputing.com/documentation/kernel/tools/perf/Ampere-eMAG-CoreImpDefined-PMU-Events.pdf)
-* [Ampere CentOS Kernel Wiki]https://github.com/AmpereComputing/ampere-centos-kernel/wiki/Ampere-CentOS-Kernel-wiki)
+* [Ampere CentOS Kernel Wiki](https://github.com/AmpereComputing/ampere-centos-kernel/wiki/Ampere-CentOS-Kernel-wiki)
 
 ## Compilers and Tools
 The new Ampere Gcc 8.4 and 9.3 compilers have the latest bug fixes and support for Ampere’s Altra™ processors. These compilers will default to targeting the Ampere Altra™ processor (mcpu=neoverse-n1), supporting the new instructions and tuning for the microarchitecture.
