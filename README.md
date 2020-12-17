@@ -1,3 +1,6 @@
+
+
+
 Whether you’re looking to enhance the functionality of your app or optimize its performance, Ampere offers you the software tools and resources to bring out the best in your development.
 
 # Getting Started
@@ -15,9 +18,23 @@ Whether you’re looking to enhance the functionality of your app or optimize it
 * [Ampere CentOS Kernel Wiki](https://github.com/AmpereComputing/ampere-centos-kernel/wiki/Ampere-CentOS-Kernel-wiki)
 
 ## Compilers and Tools
-The new Ampere Gcc 8.4 and 9.3 compilers have the latest bug fixes and support for Ampere’s Altra™ processors. These compilers will default to targeting the Ampere Altra™ processor (mcpu=neoverse-n1), supporting the new instructions and tuning for the microarchitecture.
-The ‘sysroot’ compilers provide a set of optimized libraries in the `.tar.gz` archive: these can be linked statically with your program or are available for dynamically linked executable with a custom library search path. The ‘nosysroot’ compiler is intended to build binaries that use the libraries on the system you are running on in the system search path—it acts as a drop-in replacement for your system compiler.
-If you’re looking for the best performance, try the ‘-Ofast’ (highest optimization setting) and ‘-flto’ (link-time optimizations) options.
+Ampere has new GCC 10.2 compilers for CentOS 8.2.  The C,C++, and Fortran compilers are targeted for building high performance applications on Ampere aarch64 systems.  To install first download [gcc10.2](https://github.com/AmpereComputing/ampere-gcc/) on your Ampere Altra system then execute the following commands:
+
+```
+tar xf ampere-gcc-10.2.1-CentOS-8.2.2004-11378.tgz
+source ./setup_env.sh
+```
+Now you’re ready to use Ampere’s GCC 10.2 compilers.
+
+If you need support, please submit your issue at
+https://github.com/AmpereComputing/ampere-gcc/issues
+(Support is only provided for GCC10.2 on CentOS 8.2).
+
+source code for the compiler is at https://github.com/AmpereComputing/ampere-gcc.
+
+
+Previous versions of the Ampere compilers are available for download below.
+
 
 ## For Linux aarch64 hosted compilers and tools
 
@@ -87,9 +104,11 @@ If you’re looking for the best performance, try the ‘-Ofast’ (highest opti
 
 ## Free access to Ampere Computing patforms for Open Source projects.
 
+Ampere Computing is committed to supporting OpenSource development on AArch64 platforms.  As such we work with OpenSource infrastructure partners to make Ampere Computing platforms available and accessable for OpenSource project development.
+
 ### Oregon State University Open Source Labs
 
-Ampere Computing  partners with the Oregon State University Open Source Lab to host Ampere servers in order to provide an open platform for innovation to the open source community.  Free access to Ampere platforms hosted at the OSUOSL for open source Aarch64 development can be requested here: 
+Ampere Computing  partners with the Oregon State University Open Source Lab to host Ampere servers within an OpenStack Cloud in order to provide an open platform for innovation to the open source community.  Free access to Ampere platforms hosted at the OSUOSL for open source Aarch64 development can be requested here: 
 
 * [https://osuosl.org/services/aarch64/request_hosting/](https://osuosl.org/services/aarch64/request_hosting/)
 
