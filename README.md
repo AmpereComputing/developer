@@ -8,6 +8,7 @@ Ampere is committed to enabling Aarch64 as a server platform and removing the ba
 
 * A commercial baremetal cloud infrastructure provider supporting Ampere compute platforms for several years.
 * Provides Ampere resources to OpenSource projects through WorksOnArm, CNCF CI and other OSS initiatives.
+* Equinix Metal information can be found here: [https://metal.equinix.com/](https://metal.equinix.com/)
 
 ### Oregon State University Open Source Labs
 
@@ -123,6 +124,11 @@ Previous versions of the Ampere compilers are available for download below.
 #### 7.3.0:
 
 * [Download: ampere-7.3.0-crosstools-20180930.xz](https://cdn.amperecomputing.com/tools/compilers/cross/7.3.0/ampere-7.3.0-crosstools-20180930.tar.xz)
+
+## Helpful Guides
+
+[https://cdn.amperecomputing.com/documentation/kernel/tools/perf/Ampere-eMAG-HowTo-Patch-Perf-Counters.pdf]
+(https://cdn.amperecomputing.com/documentation/kernel/tools/perf/Ampere-eMAG-HowTo-Patch-Perf-Counters.pdf)
 
 ## Open Source Community Mentions
 
