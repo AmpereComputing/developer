@@ -127,7 +127,7 @@ Previous versions of the Ampere compilers are available for download below.
 
 ## Helpful Guides
 
-[https://cdn.amperecomputing.com/documentation/kernel/tools/perf/Ampere-eMAG-HowTo-Patch-Perf-Counters.pdf](https://cdn.amperecomputing.com/documentation/kernel/tools/perf/Ampere-eMAG-HowTo-Patch-Perf-Counters.pdf)
+* [How To: Patch Tools/Perf to Enable Ampere Vendor Counters](https://cdn.amperecomputing.com/documentation/kernel/tools/perf/Ampere-eMAG-HowTo-Patch-Perf-Counters.pdf)
 
 ## Open Source Community Mentions
 
