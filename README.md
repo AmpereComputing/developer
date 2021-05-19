@@ -6,27 +6,27 @@ Ampere is committed to enabling Aarch64 as a server platform and removing the ba
 
 ### Equinix Metal 
 
-•	A commercial baremetal cloud infrastructure provider supporting Ampere compute platforms for several years.
-•	Provides Ampere resources to OpenSource projects through WorksOnArm, CNCF CI and other OSS initiatives.
+* A commercial baremetal cloud infrastructure provider supporting Ampere compute platforms for several years.
+* Provides Ampere resources to OpenSource projects through WorksOnArm, CNCF CI and other OSS initiatives.
 
 ### Oregon State University Open Source Labs
 
-•	One of the original open source hosting providers with 27 years providing open source infrastructure hosting across multiple compute Architectures
-•	160 Projects hosted (… Apache, Linux Foundation, Drupal)
-•	Request access to Ampere reousrces at OSUOSL here: [https://osuosl.org/services/aarch64/request_hosting](https://osuosl.org/services/aarch64/request_hosting)
+* One of the original open source hosting providers with 27 years providing open source infrastructure hosting across multiple compute Architectures
+* 160 Projects hosted (… Apache, Linux Foundation, Drupal)
+* Request access to Ampere reousrces at OSUOSL here: [https://osuosl.org/services/aarch64/request_hosting](https://osuosl.org/services/aarch64/request_hosting)
 
 ### FoSSHost.org/Aarch64.com
 
-•	A relatively new and quickly growing pure play open source hosting provider.
-•	Provides datacenter infrastructure and services to support open source projects
-•	Hosted projects include: Armbian, Debian, Rocky Linux, XFCE, Free Software Foundation Europe, KDE, GNU Health, QEMU
-•	Request Access to Ampere resources at FoSSHost.org here: [https://fosshost.org/apply](https://fosshost.org/apply)
+* A relatively new and quickly growing pure play open source hosting provider.
+* Provides datacenter infrastructure and services to support open source projects
+* Hosted projects include: Armbian, Debian, Rocky Linux, XFCE, Free Software Foundation Europe, KDE, GNU Health, QEMU
+* Request Access to Ampere resources at FoSSHost.org here: [https://fosshost.org/apply](https://fosshost.org/apply)
 
 ## Ampere Altra Linux Kernel Porting Guide
 Information regarding Linux Kernel features and patches that apply to Ampere SOCs.   
 
-•	Linux kernel patch guide: [https://github.com/AmpereComputing/ampere-centos-kernel/wiki/Ampere-AltraTM-Linux-Kernel-Porting-Guide](https://github.com/AmpereComputing/ampere-centos-kernel/wiki/Ampere-AltraTM-Linux-Kernel-Porting-Guide)
-•	Ampere patch tree: [https://github.com/AmpereComputing/ampere-centos-kernel/commits/amp-centos-8.0-kernel](
+* Linux kernel patch guide: [https://github.com/AmpereComputing/ampere-centos-kernel/wiki/Ampere-AltraTM-Linux-Kernel-Porting-Guide](https://github.com/AmpereComputing/ampere-centos-kernel/wiki/Ampere-AltraTM-Linux-Kernel-Porting-Guide)
+* Ampere patch tree: [https://github.com/AmpereComputing/ampere-centos-kernel/commits/amp-centos-8.0-kernel](
 https://github.com/AmpereComputing/ampere-centos-kernel/commits/amp-centos-8.0-kernel)
 
 ### Ampere® Altra®
@@ -126,7 +126,7 @@ Previous versions of the Ampere compilers are available for download below.
 
 ## Open Source Community Mentions
 
-•	[https://www.debian.org/News/2020/20200616](https://www.debian.org/News/2020/20200616)
-•	[https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html)
-•	[https://www.openmandriva.org/en/news/article/openmandriva-build-infrastructure-switches-to-arm-servers](https://www.openmandriva.org/en/news/article/openmandriva-build-infrastructure-switches-to-arm-servers)
-•	[https://kali.org/blog/ampere/](https://kali.org/blog/ampere/)
+* [https://www.debian.org/News/2020/20200616](https://www.debian.org/News/2020/20200616)
+* [https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html)
+* [https://www.openmandriva.org/en/news/article/openmandriva-build-infrastructure-switches-to-arm-servers](https://www.openmandriva.org/en/news/article/openmandriva-build-infrastructure-switches-to-arm-servers)
+* [https://kali.org/blog/ampere/](https://kali.org/blog/ampere/)
