@@ -34,24 +34,26 @@ https://github.com/AmpereComputing/ampere-centos-kernel/commits/amp-centos-8.0-k
 
 | Operating System | Minimal Version |
 | --- | --- |
-| AlmaLinux | >= 8.4 |
+| AlmaLinux | >= 8.5 |
+| CentOS | >= 8.5 |
 | Debian | >= 11 |
-| OracleLinux | >= 8.3 UEK R6 |
-| RedHat Enterprise Linux (RHEL) | >= 8.4 |
+| Fedora | >= 35 |
+| OracleLinux | >= 8.5 UEK R6u3 |
+| RedHat Enterprise Linux (RHEL) | >= 8.5 |
 | Rocky Linux | >= 8.4 |
-| SUSE Linux Enterprise (SLES)| >= 15 SP2 |
-| Ubuntu LTS HWE | >= 20.04.02 |
+| SUSE Linux Enterprise (SLES)| >= 15 SP3 |
+| Ubuntu LTS HWE | >= 20.04.03 |
 
 ### Ampere® eMAG™
 
 | Operating System | Minimal Version |
 | --- | --- |
-| CentOS | >= 7.5 |
-| Fedora | >= 27 |
-| OracleLinux | >= 7.5 |
-| RedHat Enterprise Linux (RHEL) | >= 7.5 | 
-| SUSE Linux | >= 15 |
-| Ubuntu LTS HWE | >= 18.04.01 |
+| CentOS | >= 8.5 |
+| Fedora | >= 35 |
+| OracleLinux | >= 8.5 UEK R6u3 |
+| RedHat Enterprise Linux (RHEL) | >= 8.5 | 
+| SUSE Linux | >= 15 SP3 |
+| Ubuntu LTS HWE | >= 20.04.03 |
 
 ## Compilers and Tools
 Ampere has new GCC 10.2 compilers for CentOS 8.2.  The C,C++, and Fortran compilers are targeted for building high performance applications on Ampere aarch64 systems.  To install first download [gcc10.2](https://github.com/AmpereComputing/ampere-gcc/) on your Ampere Altra system then execute the following commands:
