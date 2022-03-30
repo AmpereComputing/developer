@@ -35,12 +35,11 @@ https://github.com/AmpereComputing/ampere-centos-kernel/commits/amp-centos-8.0-k
 | Operating System | Minimal Version |
 | --- | --- |
 | AlmaLinux | >= 8.5 |
-| CentOS | >= 8.5 |
 | Debian | >= 11 |
 | Fedora | >= 35 |
 | OracleLinux | >= 8.5 UEK R6u3 |
 | RedHat Enterprise Linux (RHEL) | >= 8.5 |
-| Rocky Linux | >= 8.4 |
+| Rocky Linux | >= 8.5 |
 | SUSE Linux Enterprise (SLES)| >= 15 SP3 |
 | Ubuntu LTS HWE | >= 20.04.03 |
 
@@ -48,7 +47,6 @@ https://github.com/AmpereComputing/ampere-centos-kernel/commits/amp-centos-8.0-k
 
 | Operating System | Minimal Version |
 | --- | --- |
-| CentOS | >= 8.5 |
 | Fedora | >= 35 |
 | OracleLinux | >= 8.5 UEK R6u3 |
 | RedHat Enterprise Linux (RHEL) | >= 8.5 | 
