@@ -23,36 +23,6 @@ Ampere is committed to enabling Aarch64 as a server platform and removing the ba
 * Hosted projects include: Armbian, Debian, Rocky Linux, XFCE, Free Software Foundation Europe, KDE, GNU Health, QEMU
 * Request Access to Ampere resources at FoSSHost.org here: [https://fosshost.org/apply](https://fosshost.org/apply)
 
-## Ampere Altra Linux Kernel Porting Guide
-Information regarding Linux Kernel features and patches that apply to Ampere SOCs.   
-
-* Linux kernel patch guide: [https://github.com/AmpereComputing/ampere-centos-kernel/wiki/Ampere-AltraTM-Linux-Kernel-Porting-Guide](https://github.com/AmpereComputing/ampere-centos-kernel/wiki/Ampere-AltraTM-Linux-Kernel-Porting-Guide)
-* Ampere patch tree: [https://github.com/AmpereComputing/ampere-centos-kernel/commits/amp-centos-8.0-kernel](
-https://github.com/AmpereComputing/ampere-centos-kernel/commits/amp-centos-8.0-kernel)
-
-### Ampere® Altra®
-
-| Operating System | Minimal Version |
-| --- | --- |
-| AlmaLinux | >= 8.5 |
-| Debian | >= 11 |
-| Fedora | >= 35 |
-| OracleLinux | >= 8.5 UEK R6u3 |
-| RedHat Enterprise Linux (RHEL) | >= 8.5 |
-| Rocky Linux | >= 8.5 |
-| SUSE Linux Enterprise (SLES)| >= 15 SP3 |
-| Ubuntu LTS HWE | >= 20.04.03 |
-
-### Ampere® eMAG™
-
-| Operating System | Minimal Version |
-| --- | --- |
-| Fedora | >= 35 |
-| OracleLinux | >= 8.5 UEK R6u3 |
-| RedHat Enterprise Linux (RHEL) | >= 8.5 | 
-| SUSE Linux | >= 15 SP3 |
-| Ubuntu LTS HWE | >= 20.04.03 |
-
 ## Compilers and Tools
 Ampere has new GCC 10.2 compilers for CentOS 8.2.  The C,C++, and Fortran compilers are targeted for building high performance applications on Ampere aarch64 systems.  To install first download [gcc10.2](https://github.com/AmpereComputing/ampere-gcc/) on your Ampere Altra system then execute the following commands:
 
