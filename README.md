@@ -1,5 +1,7 @@
 # [developer.amperecomputing.com](https://amperecomputing.com/developers)
 
+Please see [developer.amperecomputing.com](https://amperecomputing.com/developers) for current information.
+
 ## Ampere’s Commitment to Enabling Open Source Developers
 
 Ampere is committed to enabling Aarch64 as a server platform and removing the barrier-to-entry for server based Aarch64 development within open-source project ecosystems. By contributing our Aarch64 platforms to projects, organizations, technology stakeholders, and by engaging in strategic partnerships with the projects themselves, we can help enable and ensure packages and binary artifacts are compiled natively on Aarch64 server platforms for Aarch64 architectures without using cross compilation.   Ampere is committed to ensuring Open source developers have a choice and can request access to Ampere Aarch64 platforms through one of our open source hosting partner providers:
@@ -16,28 +18,9 @@ Ampere is committed to enabling Aarch64 as a server platform and removing the ba
 * 160 Projects hosted (… Apache, Linux Foundation, Drupal)
 * Request access to Ampere reousrces at OSUOSL here: [https://osuosl.org/services/aarch64/request_hosting](https://osuosl.org/services/aarch64/request_hosting)
 
-### FoSSHost.org/Aarch64.com
-
-* A relatively new and quickly growing pure play open source hosting provider.
-* Provides datacenter infrastructure and services to support open source projects
-* Hosted projects include: Armbian, Debian, Rocky Linux, XFCE, Free Software Foundation Europe, KDE, GNU Health, QEMU
-* Request Access to Ampere resources at FoSSHost.org here: [https://fosshost.org/apply](https://fosshost.org/apply)
 
 ## Compilers and Tools
-Ampere has new GCC 10.2 compilers for CentOS 8.2.  The C,C++, and Fortran compilers are targeted for building high performance applications on Ampere aarch64 systems.  To install first download [gcc10.2](https://github.com/AmpereComputing/ampere-gcc/) on your Ampere Altra system then execute the following commands:
-
-```
-tar xf ampere-gcc-10.2.1-CentOS-8.2.2004-11378.tgz
-source ./setup_env.sh
-```
-Now you’re ready to use Ampere’s GCC 10.2 compilers.
-
-If you need support, please submit your issue at
-https://github.com/AmpereComputing/ampere-gcc/issues
-(Support is only provided for GCC10.2 on CentOS 8.2).
-
-source code for the compiler is at https://github.com/AmpereComputing/ampere-gcc.
-
+Ampere processors are supported by GCC. Ampere recommends using the latest version of GCC.
 Previous versions of the Ampere compilers are available for download below.
 
 ### For Linux aarch64 hosted compilers and tools
