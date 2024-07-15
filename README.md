@@ -2,9 +2,9 @@
 
 Please see [developer.amperecomputing.com](https://amperecomputing.com/developers) for current information.
 
-## Ampere’s Commitment to Enabling Open Source Developers
+## Ampere Computing’s Commitment to Enabling Open Source Developers
 
-Ampere is committed to enabling Aarch64 as a server platform and removing the barrier-to-entry for server based Aarch64 development within open-source project ecosystems. By contributing our Aarch64 platforms to projects, organizations, technology stakeholders, and by engaging in strategic partnerships with the projects themselves, we can help enable and ensure packages and binary artifacts are compiled natively on Aarch64 server platforms for Aarch64 architectures without using cross compilation.   Ampere is committed to ensuring Open source developers have a choice and can request access to Ampere Aarch64 platforms through one of our open source hosting partner providers:
+Ampere Computing (Ampere) is committed to enabling Aarch64 as a server platform and removing the barrier-to-entry for server based Aarch64 development within open-source project ecosystems. By contributing our Aarch64 platforms to projects, organizations, technology stakeholders, and by engaging in strategic partnerships with the projects themselves, we can help enable and ensure packages and binary artifacts are compiled natively on Aarch64 server platforms for Aarch64 architectures without using cross compilation.   Ampere is committed to ensuring Open source developers have a choice and can request access to Ampere Aarch64 platforms through one of our open source hosting partner providers:
 
 ### Equinix Metal 
 
