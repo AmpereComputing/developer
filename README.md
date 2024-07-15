@@ -78,10 +78,6 @@ Previous versions of the Ampere compilers are available for download below.
 
 * [Download: ampere-7.3.0-crosstools-20180930.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/7.3.0/ampere-7.3.0-crosstools-20180930.tar.xz)
 
-## Helpful Guides
-
-* [How To: Patch Tools/Perf to Enable Ampere Vendor Counters](https://ampere-cdn.s3-us-west-2.amazonaws.com/documentation/kernel/tools/perf/Ampere-eMAG-HowTo-Patch-Perf-Counters.pdf)
-
 ## Open Source Community Mentions
 
 * [https://www.debian.org/News/2020/20200616](https://www.debian.org/News/2020/20200616)
