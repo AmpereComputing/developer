@@ -49,55 +49,55 @@ Previous versions of the Ampere compilers are available for download below.
 
 #### 8.4.0:
 
-* [Download: ampere-8.4.0-20200327-nativetools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/native/8.4.0/ampere-8.4.0-20200327-nativetools.tar.xz)
-* [Download: ampere-8.4.0-20200327-dynamic-nativetools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/native/8.4.0/ampere-8.4.0-20200327-dynamic-nativetools.tar.xz)
-* [Download: ampere-8.4.0-20200327-dynamic-nosysroot-nativetools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/native/8.4.0/ampere-8.4.0-20200327-dynamic-nosysroot-nativetools.tar.xz)
+* [Download: ampere-8.4.0-20200327-nativetools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.4.0/ampere-8.4.0-20200327-nativetools.tar.xz)
+* [Download: ampere-8.4.0-20200327-dynamic-nativetools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.4.0/ampere-8.4.0-20200327-dynamic-nativetools.tar.xz)
+* [Download: ampere-8.4.0-20200327-dynamic-nosysroot-nativetools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.4.0/ampere-8.4.0-20200327-dynamic-nosysroot-nativetools.tar.xz)
 
 #### 8.3.0:
 
-* [Download: ampere-8.3.0-20191025-dynamic-nativetools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/native/8.3.0/ampere-8.3.0-20191025-dynamic-nativetools.tar.xz)
-* [Download: ampere-8.3.0-20191025-dynamic-nosysroot-nativetools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/native/8.3.0/ampere-8.3.0-20191025-dynamic-nosysroot-nativetools.tar.xz)
-* [Download: ampere-8.3.0-nativetools-20190830.xz](https://cdn.amperecomputing.com/tools/compilers/native/8.3.0/ampere-8.3.0-20190830-nativetools.tar.xz)
+* [Download: ampere-8.3.0-20191025-dynamic-nativetools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.3.0/ampere-8.3.0-20191025-dynamic-nativetools.tar.xz)
+* [Download: ampere-8.3.0-20191025-dynamic-nosysroot-nativetools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.3.0/ampere-8.3.0-20191025-dynamic-nosysroot-nativetools.tar.xz)
+* [Download: ampere-8.3.0-nativetools-20190830.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.3.0/ampere-8.3.0-20190830-nativetools.tar.xz)
 
 #### 8.2.0:
 
-* [Download: ampere-8.2.0-nativetools-20180930.xz](https://cdn.amperecomputing.com/tools/compilers/native/8.2.0/ampere-8.2.0-nativetools-20180930.tar.xz)
+* [Download: ampere-8.2.0-nativetools-20180930.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.2.0/ampere-8.2.0-nativetools-20180930.tar.xz)
 
 #### 7.3.0:
 
-* [Download: ampere-7.3.0-nativetools-20180930.xz](https://cdn.amperecomputing.com/tools/compilers/native/7.3.0/ampere-7.3.0-nativetools-20180930.tar.xz)
+* [Download: ampere-7.3.0-nativetools-20180930.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/7.3.0/ampere-7.3.0-nativetools-20180930.tar.xz)
 
 ### For Linux x86-64 hosted cross-compilers and tools targeting aarch64:
 
 #### 9.3.0:
 
-* [Download: ampere-9.3.0-20200331-crosstools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/cross/9.3.0/ampere-9.3.0-20200331-crosstools.tar.xz)
-* [Download: ampere-9.3.0-20200331-dynamic-crosstools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/cross/9.3.0/ampere-9.3.0-20200331-dynamic-crosstools.tar.xz)
-* [Download: ampere-9.3.0-20200331-dynamic-nosysroot-crosstools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/cross/9.3.0/ampere-9.3.0-20200331-dynamic-nosysroot-crosstools.tar.xz)
+* [Download: ampere-9.3.0-20200331-crosstools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/9.3.0/ampere-9.3.0-20200331-crosstools.tar.xz)
+* [Download: ampere-9.3.0-20200331-dynamic-crosstools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/9.3.0/ampere-9.3.0-20200331-dynamic-crosstools.tar.xz)
+* [Download: ampere-9.3.0-20200331-dynamic-nosysroot-crosstools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/9.3.0/ampere-9.3.0-20200331-dynamic-nosysroot-crosstools.tar.xz)
 
 #### 8.4.0:
 
-* [Download: ampere-8.4.0-20200327-crosstools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/cross/8.4.0/ampere-8.4.0-20200327-crosstools.tar.xz)
-* [Download: ampere-8.4.0-20200327-dynamic-crosstools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/cross/8.4.0/ampere-8.4.0-20200327-dynamic-crosstools.tar.xz)
-* [Download: ampere-8.4.0-20200327-dynamic-nosysroot-crosstools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/cross/8.4.0/ampere-8.4.0-20200327-dynamic-nosysroot-crosstools.tar.xz)
+* [Download: ampere-8.4.0-20200327-crosstools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.4.0/ampere-8.4.0-20200327-crosstools.tar.xz)
+* [Download: ampere-8.4.0-20200327-dynamic-crosstools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.4.0/ampere-8.4.0-20200327-dynamic-crosstools.tar.xz)
+* [Download: ampere-8.4.0-20200327-dynamic-nosysroot-crosstools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.4.0/ampere-8.4.0-20200327-dynamic-nosysroot-crosstools.tar.xz)
 
 #### 8.3.0:
 
-* [Download: ampere-8.3.0-20191025-dynamic-crosstools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/cross/8.3.0/ampere-8.3.0-20191025-dynamic-crosstools.tar.xz)
-* [Download: ampere-8.3.0-20191025-dynamic-nosysroot-crosstools.tar.xz](https://cdn.amperecomputing.com/tools/compilers/cross/8.3.0/ampere-8.3.0-20191025-dynamic-nosysroot-crosstools.tar.xz)
-* [Download: ampere-8.3.0-crosstools-20190830.xz](http://cdn.amperecomputing.com/tools/compilers/cross/8.3.0/ampere-8.3.0-20190830-crosstools.tar.xz)
+* [Download: ampere-8.3.0-20191025-dynamic-crosstools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.3.0/ampere-8.3.0-20191025-dynamic-crosstools.tar.xz)
+* [Download: ampere-8.3.0-20191025-dynamic-nosysroot-crosstools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.3.0/ampere-8.3.0-20191025-dynamic-nosysroot-crosstools.tar.xz)
+* [Download: ampere-8.3.0-crosstools-20190830.xz](http://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.3.0/ampere-8.3.0-20190830-crosstools.tar.xz)
 
 #### 8.2.0:
 
-* [Download: ampere-8.2.0-crosstools-20180930.xz](https://cdn.amperecomputing.com/tools/compilers/cross/8.2.0/ampere-8.2.0-crosstools-20180930.tar.xz)
+* [Download: ampere-8.2.0-crosstools-20180930.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.2.0/ampere-8.2.0-crosstools-20180930.tar.xz)
 
 #### 7.3.0:
 
-* [Download: ampere-7.3.0-crosstools-20180930.xz](https://cdn.amperecomputing.com/tools/compilers/cross/7.3.0/ampere-7.3.0-crosstools-20180930.tar.xz)
+* [Download: ampere-7.3.0-crosstools-20180930.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/7.3.0/ampere-7.3.0-crosstools-20180930.tar.xz)
 
 ## Helpful Guides
 
-* [How To: Patch Tools/Perf to Enable Ampere Vendor Counters](https://cdn.amperecomputing.com/documentation/kernel/tools/perf/Ampere-eMAG-HowTo-Patch-Perf-Counters.pdf)
+* [How To: Patch Tools/Perf to Enable Ampere Vendor Counters](https://ampere-cdn.s3-us-west-2.amazonaws.com/documentation/kernel/tools/perf/Ampere-eMAG-HowTo-Patch-Perf-Counters.pdf)
 
 ## Open Source Community Mentions
 
