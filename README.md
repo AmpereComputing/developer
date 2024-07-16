@@ -21,7 +21,8 @@ Ampere Computing (Ampere) is committed to enabling Aarch64 as a server platform 
 
 ## Compilers and Tools
 Ampere processors are supported by GCC. Ampere recommends using the latest version of GCC.
-Previous versions of the Ampere compilers are available for download below.
+
+Older versions of the Ampere modified compilers are available for download below.
 
 ### For Linux aarch64 hosted compilers and tools
 
