@@ -42,7 +42,7 @@ Older versions of the Ampere modified compilers are available for download below
 * [Download: ampere-8.3.0-20191025-dynamic-nativetools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.3.0/ampere-8.3.0-20191025-dynamic-nativetools.tar.xz)
 * [Download: ampere-8.3.0-20191025-dynamic-nosysroot-nativetools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.3.0/ampere-8.3.0-20191025-dynamic-nosysroot-nativetools.tar.xz)
 * [Download: ampere-8.3.0-nativetools-20190830.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.3.0/ampere-8.3.0-20190830-nativetools.tar.xz)
-
+<!--
 #### 8.2.0:
 
 * [Download: ampere-8.2.0-nativetools-20180930.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/8.2.0/ampere-8.2.0-nativetools-20180930.tar.xz)
@@ -50,7 +50,7 @@ Older versions of the Ampere modified compilers are available for download below
 #### 7.3.0:
 
 * [Download: ampere-7.3.0-nativetools-20180930.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/native/7.3.0/ampere-7.3.0-nativetools-20180930.tar.xz)
-
+-->
 ### For Linux x86-64 hosted cross-compilers and tools targeting aarch64:
 
 #### 9.3.0:
@@ -70,7 +70,7 @@ Older versions of the Ampere modified compilers are available for download below
 * [Download: ampere-8.3.0-20191025-dynamic-crosstools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.3.0/ampere-8.3.0-20191025-dynamic-crosstools.tar.xz)
 * [Download: ampere-8.3.0-20191025-dynamic-nosysroot-crosstools.tar.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.3.0/ampere-8.3.0-20191025-dynamic-nosysroot-crosstools.tar.xz)
 * [Download: ampere-8.3.0-crosstools-20190830.xz](http://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.3.0/ampere-8.3.0-20190830-crosstools.tar.xz)
-
+<!--
 #### 8.2.0:
 
 * [Download: ampere-8.2.0-crosstools-20180930.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/8.2.0/ampere-8.2.0-crosstools-20180930.tar.xz)
@@ -78,10 +78,13 @@ Older versions of the Ampere modified compilers are available for download below
 #### 7.3.0:
 
 * [Download: ampere-7.3.0-crosstools-20180930.xz](https://ampere-cdn.s3-us-west-2.amazonaws.com/tools/compilers/cross/7.3.0/ampere-7.3.0-crosstools-20180930.tar.xz)
-
+-->
+<!--
 ## Open Source Community Mentions
 
 * [https://www.debian.org/News/2020/20200616](https://www.debian.org/News/2020/20200616)
 * [https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html](https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html)
 * [https://www.openmandriva.org/en/news/article/openmandriva-build-infrastructure-switches-to-arm-servers](https://www.openmandriva.org/en/news/article/openmandriva-build-infrastructure-switches-to-arm-servers)
 * [https://kali.org/blog/ampere/](https://kali.org/blog/ampere/)
+
+-->
